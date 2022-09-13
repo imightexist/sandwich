@@ -8,3 +8,5 @@ Currently the windows version is the only one being worked on. linux version wil
 
 # Run code
 `sandwich namehere.sw`
+
+Linux: `./sandwich namehere.sw`
